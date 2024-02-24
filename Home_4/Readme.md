@@ -16,11 +16,17 @@
 
 Данные на выходе: 371
 
+![Home_4_1_1](https://github.com/Andymarch83/C_Start/assets/122732408/7d1581e2-d2a2-4c71-bfde-823858451592)
+
+
 Пример №2
 
 Данные на входе: 1 5
 
 Данные на выходе: 55
+
+![Home_4_1_2](https://github.com/Andymarch83/C_Start/assets/122732408/39e26a9a-ae1b-4249-a309-fc1c6a7dbff2)
+
 
 ## Задача 2. Ровно три цифры
 
@@ -34,6 +40,9 @@
 
 Данные на входе: 123
 
+![Home_4_2_1](https://github.com/Andymarch83/C_Start/assets/122732408/9a0df8db-ecad-411b-8c18-a63bd432d23c)
+
+
 Данные на выходе: YES
 
 Пример №2
@@ -41,6 +50,9 @@
 Данные на входе: 1234
 
 Данные на выходе: NO
+
+![Home_4_2_2](https://github.com/Andymarch83/C_Start/assets/122732408/3ab01428-5bdf-471c-98a7-f8c4c9fb61ff)
+
 
 ## Задача 3. Все цифры четные
 
@@ -56,11 +68,17 @@
 
 Данные на выходе: YES
 
+![Home_4_3_1](https://github.com/Andymarch83/C_Start/assets/122732408/08d99be4-da4d-4091-93de-67d93b0f0648)
+
+
 Пример №2
 
 Данные на входе: 2994
 
 Данные на выходе: NO
+
+![Home_4_3_2](https://github.com/Andymarch83/C_Start/assets/122732408/89f288ba-efa5-4b05-ac0b-f2720f1b5cc7)
+
 
 ## Задача 4. Перевернуть число
 
@@ -77,11 +95,17 @@
 
 Данные на выходе: 4321
 
+![Home_4_4_1](https://github.com/Andymarch83/C_Start/assets/122732408/bf1797fd-e425-4697-af66-e87c90c41bf5)
+
+
 Пример №2
 
 Данные на входе: 782
 
 Данные на выходе: 287
+
+![Home_4_4_2](https://github.com/Andymarch83/C_Start/assets/122732408/bf61bb14-da9e-4037-9c50-035c55334f76)
+
 
 ## Задача 5. Все счастливые числа
 
@@ -111,4 +135,7 @@
 Данные на входе: 22
 
 Данные на выходе: 22
+
+![Home_4_5](https://github.com/Andymarch83/C_Start/assets/122732408/25157c0d-c428-4801-a449-feceebfa884c)
+
 
