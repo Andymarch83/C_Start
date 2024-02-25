@@ -10,7 +10,7 @@ int main() {
 		while (currentNum > 0) {
 			sum += currentNum % 10;
 			product *= currentNum % 10;
-currentNum /= 10; 
+			currentNum /= 10; 
 		}
 		if (sum == product && currentNum <= number) {
 			printf("%d\n", currentNum);
