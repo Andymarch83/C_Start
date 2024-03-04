@@ -33,12 +33,18 @@
 
 Данные на выходе: 4
 
+![5_1_1](https://github.com/Andymarch83/C_Start/assets/122732408/d81850f9-a604-4f69-ba62-30ec513477d7)
+
+
 
 Пример №2
 
 Данные на входе: 28
 
 Данные на выходе: 134217728
+
+![5_1_2](https://github.com/Andymarch83/C_Start/assets/122732408/21449784-9781-4787-868c-b61a6898e45f)
+
 
 ## Задача 2. НОД
 
@@ -60,6 +66,9 @@ int nod(int a, int b)
 
 Данные на выходе: 7
 
+![5_2](https://github.com/Andymarch83/C_Start/assets/122732408/a5044605-6bf1-4fc6-b98c-8bacb8df505b)
+
+
 ## Задача 3. Сумма цифр равна произведению
 
 Составить логическую функцию, которая определяет, верно ли, что в заданном
@@ -79,11 +88,17 @@ int is_happy_number(int n)
 
 Данные на выходе: YES
 
+![5_3_1](https://github.com/Andymarch83/C_Start/assets/122732408/b8ead87c-c092-4fd3-b36d-26ae3981fbd6)
+
+
 Пример №2
 
 Данные на входе: 528
 
 Данные на выходе: NO
+
+![5_3_2](https://github.com/Andymarch83/C_Start/assets/122732408/27d27550-d6eb-4da8-b837-483cac12b352)
+
 
 ## Задача 4. Сумма от 1 до N
 
@@ -98,11 +113,17 @@ int is_happy_number(int n)
 
 Данные на выходе: Целое число - сумма чисел от 1 до N
 
+![5_4_1](https://github.com/Andymarch83/C_Start/assets/122732408/84966c9f-c8c5-4c4a-b7e1-4b18ebea7bd9)
+
+
 Пример №2
 
 Данные на входе: 100
 
 Данные на выходе: 5050
+
+![5_4_2](https://github.com/Andymarch83/C_Start/assets/122732408/0ad18045-33d3-425d-8281-8b485e6d3a1c)
+
 
 ## Задача 5*. Скобки
 
@@ -122,9 +143,15 @@ int is_happy_number(int n)
 
 Данные на выходе: YES
 
+![5_5_1](https://github.com/Andymarch83/C_Start/assets/122732408/ca641883-e616-4c6a-af64-24ea24c04a7e)
+
+
 Пример №2
 
 Данные на входе: ()(.
+
+![5_5_2](https://github.com/Andymarch83/C_Start/assets/122732408/26e7f282-96ca-449f-b095-9b79d5bcc31f)
+
 
 Данные на выходе: NO
 
