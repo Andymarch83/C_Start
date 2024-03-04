@@ -150,8 +150,10 @@ int is_happy_number(int n)
 
 Данные на входе: ()(.
 
+Данные на выходе: NO
+
 ![5_5_2](https://github.com/Andymarch83/C_Start/assets/122732408/26e7f282-96ca-449f-b095-9b79d5bcc31f)
 
 
-Данные на выходе: NO
+
 
