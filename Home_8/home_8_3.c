@@ -25,10 +25,10 @@ int find_max_array(int size, int a[]) {
 	int n;
     int arr[100];
 
-    printf("Enter the size of the array: ");
+    printf("Input size: ");
     scanf("%d", &n);
 
-    printf("Enter the elements of the array: ");
+    printf("Input numbers: ");
     for (int i = 0; i < n; i++) {
         scanf("%d", &arr[i]);
     }
