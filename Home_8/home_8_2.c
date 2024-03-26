@@ -37,10 +37,10 @@ void sort_even_odd(int n, int a[]) {
 	int size;
     int arr[100];
 
-    printf("Enter the size of the array: ");
+    printf("Input size: ");
     scanf("%d", &size);
 
-    printf("Enter the elements of the array: ");
+    printf("Input numbers: ");
     for (int i = 0; i < size; i++) {
         scanf("%d", &arr[i]);
     }
